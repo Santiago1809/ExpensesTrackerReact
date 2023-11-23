@@ -1,4 +1,4 @@
-# ExpensesTrackerReact
+# Expenses Tracker React
 
 This is an example of an Expense tracker using context, effect and State.
 
